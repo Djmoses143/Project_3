@@ -1,0 +1,12 @@
+Hebry,10
+Raju,6
+John,12
+Kiran,4
+Jessy,6
+Afrin,5
+Patel,9
+lucy,10
+Ram,11
+Shariff,7
+Varnika,9
+Sam,10
